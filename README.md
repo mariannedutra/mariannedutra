@@ -1,5 +1,5 @@
 # Welcome stranger, I'm Marianne! :D
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mariannedutra)](https://github.com/fagnerpsantos)
+[![Instagram Badge]https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mariannedutra)](https://instagram.com/mariannedutra)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianne-dutra-0086801a1/)](https://www.linkedin.com/in/marianne-dutra-0086801a1/)
 
 
