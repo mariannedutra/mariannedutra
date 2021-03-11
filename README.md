@@ -10,4 +10,4 @@ I am very interested in several subjects and themes involving programming and we
 💻<3
 Soon dropping lots of news out there!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannedutra&show_icons=true&theme=dracula)(https://github.com/mariannedutra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannedutra&show_icons=true&theme=dracula)
