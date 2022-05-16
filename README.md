@@ -4,9 +4,7 @@
 
 
 ### About me
-I'm a frontend {aspiring fullstack} developer and co-founder at (Working on it ->) [@createasy](https://www.createasy.com.br/).
-
 I am very interested in several subjects and themes involving programming and web development, and everything that connects art, innovation, society and technology.
 💻<3
-Soon dropping lots of news out there!
+
 
