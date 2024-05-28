@@ -7,7 +7,7 @@
 
 ### Interact with me there  
 
-[<img align="left" alt="mesudarshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marianne-dutra-0086801a1/)
+[<img align="left" alt="mesudarshan | LinkedIn" width="22px" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" />](https://www.linkedin.com/in/marianne-dutra-0086801a1/)
 
 <!-- follow this link -> https://github.com/simple-icons/simple-icons and http://simpleicons.org/.) -> this is how you write comments in markddown too. As you noticed this information is not shown in the readme page. -->
 <!-- here is the list -> https://gist.github.com/rxaviers/7360908) -->
