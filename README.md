@@ -2,8 +2,7 @@
 
 - :books: Finishing my degree in Software Engineering at Ulbra University, Brasil. 🎓
 -  I have worked in the information technology area since 2018... I'm 24 years old! 🤟🏾
--  I've professional experience in the area of ​​managing information technology and multidisciplinary teams, computer networks and web software development. 🧠
--  Aand now I am increasingly exploring the fields of AI, with machine learning projects, LLMs and RAG... 🤖
+-  Software Development | AI and Machine Learning Enthusiastic | Computer Vision Explorer 🧠
 
 ### Interact with me there  
 
