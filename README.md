@@ -1,7 +1,7 @@
 ### Hi, I'm Marianne Dutra 🙂
 
-- :books: Finishing my degree in Software Engineering at Ulbra University, Brasil. 🎓
--  I have worked in the information technology area since 2018... I'm 24 years old! 🤟🏾
+- :books: Software Engineer - Ulbra University, Brasil, 2025. 🎓
+-  I have worked in the information technology area since 2018... I'm 25 years old! 🤟🏾
 -  Software Development | AI and Machine Learning Enthusiastic | Computer Vision Explorer 🧠
 
 ### Interact with me there  
