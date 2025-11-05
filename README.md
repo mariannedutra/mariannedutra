@@ -73,9 +73,3 @@ Teaching resource demonstrating React fundamentals including Hooks, Routing, and
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianne-lacerda-dutra-theodoro/)
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannedutra&layout=compact&langs_count=6&theme=algolia"/>
-</div>
