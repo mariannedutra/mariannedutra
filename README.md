@@ -1,36 +1,81 @@
-### Hi, I'm Marianne Dutra 🙂
+# Marianne Dutra
 
-- :books: Software Engineer - Ulbra University, Brasil, 2025. 🎓
--  I have worked in the information technology area since 2018... I'm 25 years old! 🤟🏾
--  Software Development | AI and Machine Learning Enthusiastic | Computer Vision Explorer 🧠
+**Software Engineer | University Professor | AI Enthusiast**
 
-### Interact with me there  
+Very curious and studious... Full-stack developer and educator, I am passionate about Scientific Research, Artificial Intelligence, and Web Development. 
 
-[<img align="left" alt="mesudarshan | LinkedIn" width="22px" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" />](https://www.linkedin.com/in/marianne-dutra-0086801a1/)
+## 🎓 Background
 
-<!-- follow this link -> https://github.com/simple-icons/simple-icons and http://simpleicons.org/.) -> this is how you write comments in markddown too. As you noticed this information is not shown in the readme page. -->
-<!-- here is the list -> https://gist.github.com/rxaviers/7360908) -->
+- **Education**: Graduated in Software Engineering from CEULP/ULBRA (2025) and currently pursuing a postgraduate degree in Generative Artificial Intelligence Application Development.
+- **Experience**: 7+ years in tech area (since 2018). 3+ years in software development. 
+- **Teaching**: Professor at CEULP/ULBRA - Computer Science Department
+- **Working**: Data Analyst and in the development of AI-integrated applications at the Regional Electoral Court of the State of Tocantins (TRE-TO).
 
-<br />
+## 🚀 Featured Projects
 
-### Languages and Tools
+### [Insólito](link-para-repo)
+**Educational Game | Unity & C#**
 
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Javascript" width="28px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NextJS" width="28px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
-<img align="left" alt="React" width="28px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node" width="28px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="WSL" width="28px" src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" />
-<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+Final graduation project featuring a scalable educational game built with Unity and C#. Implements Event-Driven Architecture (EDA) for structured data capture, integrating with external AI agent services for intelligent gameplay orientations.
 
+**Tech Stack**: Unity, C#, EDA, AI Integration
 
-<br />
-<br />
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariannedutra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannedutra&layout=compact&langs_count=5&theme=algolia"/>
+---
+
+### [Local RAG](link-para-repo)
+**AI Research | Retrieval-Augmented Generation**
+
+Comprehensive study on implementing RAG (Retrieval-Augmented Generation) systems locally, exploring efficient document retrieval and LLM integration without cloud dependencies.
+
+**Tech Stack**: Ollama, ChromaDB, LangChain, Python
+
+---
+
+### [ChatWithLLM](link-para-repo)
+**Interactive AI Interface**
+
+Streamlit-based chat interface for local LLM interaction using Ollama, providing a user-friendly environment for AI conversations.
+
+**Tech Stack**: Streamlit, Ollama, Python
+
+---
+
+### [University Crawler](link-para-repo)
+**Data Extraction Tool**
+
+Automated web scraper for extracting academic monographs from ULBRA University's repository, facilitating research and academic data analysis.
+
+**Tech Stack**: Python, Scrapy, Web Scraping
+
+---
+
+### [To-Do List with Favorites](link-para-repo)
+**Educational React Project**
+
+Teaching resource demonstrating React fundamentals including Hooks, Routing, and Context API. Created for undergraduate Computer Science students at CEULP/ULBRA.
+
+**Tech Stack**: React, Context API, React Router
+
+## 💻 Technical Skills
+
+**Languages**: Python, JavaScript, TypeScript, Java and C#
+
+**Frontend**: React, Next.js, Angular and Streamlit
+
+**Backend**: Node.js, FastAPI, SpringBoot
+
+**AI/ML**: LangChain, DeepFace, HuggingFace, Ollama, ChromaDB
+
+**Game Development**: Unity and PyGame
+
+**More**: Git, GitHub, Docker, VS Code, Linux, SCRUM, Jira
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianne-lacerda-dutra-theodoro/)
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannedutra&layout=compact&langs_count=6&theme=algolia"/>
 </div>
-
