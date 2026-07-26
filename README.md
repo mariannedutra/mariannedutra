@@ -7,9 +7,7 @@ Very curious and studious... Full-stack developer and educator, I am passionate 
 ## 🎓 Background
 
 - **Education**: Graduated in Software Engineering from CEULP/ULBRA (2025) and currently pursuing a postgraduate degree in Generative Artificial Intelligence Application Development.
-- **Experience**: 7+ years in tech area (since 2018). 3+ years in software development. 
-- **Teaching**: Professor at CEULP/ULBRA - Computer Science Department
-- **Working**: Data Analyst and in the development of AI-integrated applications at the Regional Electoral Court of the State of Tocantins (TRE-TO).
+- **Experience**: 7+ years in tech area (since 2018). 5+ years in software development. 
 
 ## 🚀 Featured Projects
 
